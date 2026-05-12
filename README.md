@@ -16,8 +16,10 @@ Delta Time
 colisão
 FPS
 interação com mouse
-📚 Objetivo do Projeto
 
+# 🗂️ Objetivo do Projeto
+
+```text
 O propósito deste projeto é ensinar:
 
 ✅ lógica de jogos
@@ -28,6 +30,7 @@ O propósito deste projeto é ensinar:
 ✅ sprites/texturas
 ✅ movimentação profissional
 ✅ fundamentos de engines 2D
+```
 
 Tudo de maneira:
 
